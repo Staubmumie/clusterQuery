@@ -1,0 +1,53 @@
+Makro-Auswertung der Cluster:
+Anzahl Cluster: 48
+Silhouetten-Score: 0.3629
+Davies-Bouldin Index: 1.0920
+Clustergrößen:
+  Cluster 0: 8 Punkte
+  Cluster 1: 26 Punkte
+  Cluster 2: 17 Punkte
+  Cluster 3: 10 Punkte
+  Cluster 4: 17 Punkte
+  Cluster 5: 20 Punkte
+  Cluster 6: 10 Punkte
+  Cluster 7: 20 Punkte
+  Cluster 8: 10 Punkte
+  Cluster 9: 23 Punkte
+  Cluster 10: 12 Punkte
+  Cluster 11: 16 Punkte
+  Cluster 12: 16 Punkte
+  Cluster 13: 13 Punkte
+  Cluster 14: 16 Punkte
+  Cluster 15: 2 Punkte
+  Cluster 16: 9 Punkte
+  Cluster 17: 19 Punkte
+  Cluster 18: 20 Punkte
+  Cluster 19: 11 Punkte
+  Cluster 20: 9 Punkte
+  Cluster 21: 8 Punkte
+  Cluster 22: 7 Punkte
+  Cluster 23: 5 Punkte
+  Cluster 24: 12 Punkte
+  Cluster 25: 5 Punkte
+  Cluster 26: 8 Punkte
+  Cluster 27: 18 Punkte
+  Cluster 28: 19 Punkte
+  Cluster 29: 5 Punkte
+  Cluster 30: 11 Punkte
+  Cluster 31: 11 Punkte
+  Cluster 32: 4 Punkte
+  Cluster 33: 1 Punkte
+  Cluster 34: 5 Punkte
+  Cluster 35: 2 Punkte
+  Cluster 36: 10 Punkte
+  Cluster 37: 2 Punkte
+  Cluster 38: 12 Punkte
+  Cluster 39: 11 Punkte
+  Cluster 40: 10 Punkte
+  Cluster 41: 10 Punkte
+  Cluster 42: 3 Punkte
+  Cluster 43: 4 Punkte
+  Cluster 44: 5 Punkte
+  Cluster 45: 13 Punkte
+  Cluster 46: 4 Punkte
+  Cluster 47: 11 Punkte

@@ -1,0 +1,11 @@
+Makro-Auswertung der Cluster:
+Anzahl Cluster: 6
+Silhouetten-Score: 0.3750
+Davies-Bouldin Index: 0.7574
+Clustergrößen:
+  Cluster 0: 86 Punkte
+  Cluster 1: 89 Punkte
+  Cluster 2: 90 Punkte
+  Cluster 3: 87 Punkte
+  Cluster 4: 86 Punkte
+  Cluster 5: 82 Punkte
